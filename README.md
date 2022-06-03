@@ -9,8 +9,8 @@ Multiple Image Target Based Augmented Reality Application/Game
 
 ## App Description: 
 #### 1.This Application is based on the Multiple Image Tracking concept of Augmented Reality.
-#### 2.The App consists of a 3D Model that is augmented on the image target.
-#### 3.There are UI Virtual Buttons using which you can rotate the model, Zoom In, Zoom Out and Change the hair Colour of the 3d model.
+#### 2.The App consists of a various scene with different 3D Model that is augmented on different image target.
+#### 3.There are UI Virtual Buttons using which you can navigate through various scenes and able to rotate the model, Zoom In, Zoom Out and Change the hair Colour of the 3d model.
 
 
 
