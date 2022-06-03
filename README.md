@@ -16,6 +16,8 @@ Multiple Image Target Based Augmented Reality Application/Game
 
 ![WhatsApp Image 2022-06-03 at 10 24 04 PM (1)](https://user-images.githubusercontent.com/90376200/171915342-f563546e-04db-492a-84f7-3c712f5ffd9f.jpeg)
 
+![WhatsApp Image 2022-06-03 at 10 24 04 PM](https://user-images.githubusercontent.com/90376200/171915453-05b6dfba-7b42-4baa-baad-de3411961c78.jpeg)
+
 
 ### Image Target:
 It is the image on which the 3d model augmentation happens. In order to see the 3d model scan the image target or point you smartphone cammera on image target.
