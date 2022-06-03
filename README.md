@@ -12,19 +12,7 @@ Multiple Image Target Based Augmented Reality Application/Game
 #### 2.The App consists of a various scene with different 3D Model that is augmented on different image target.
 #### 3.There are UI Virtual Buttons using which you can navigate through various scenes and able to rotate the model, Zoom In, Zoom Out and Change the hair Colour of the 3d model.
 
-
-
-https://user-images.githubusercontent.com/90376200/170538565-45be0ea6-f6a2-4449-9b41-81c2bbaddcc6.mp4
-
-
-
-![WhatsApp Image 2022-04-26 at 3 51 51 PM](https://user-images.githubusercontent.com/90376200/165279814-6383a5f1-d632-4513-9897-b41c493ceb89.jpeg)
-
-
-![WhatsApp Image 2022-04-26 at 3 51 52 PM](https://user-images.githubusercontent.com/90376200/165280411-dfe5c68b-e0e5-449d-b4a7-40c223cbbb50.jpeg)
-
-
-![WhatsApp Image 2022-04-26 at 3 51 52 PM (1)](https://user-images.githubusercontent.com/90376200/165280598-70b4aa34-e6c1-45e9-aff7-22d19f1cbdce.jpeg)
+![WhatsApp Image 2022-06-03 at 10 24 03 PM](https://user-images.githubusercontent.com/90376200/171915217-d0ffee59-90b1-480b-bf6c-211ffdce7892.jpeg)
 
 
 ### Image Target:
