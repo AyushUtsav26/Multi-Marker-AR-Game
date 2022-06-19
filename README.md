@@ -13,7 +13,8 @@ https://drive.google.com/uc?export=download&id=1mG4AtBCC94xgBXFO3iLwErEOFBBbmH7u
 ## App Description: 
 #### 1.This Application is based on the Multiple Image Tracking concept of Augmented Reality.
 #### 2.The App consists of a various scene with different 3D Model that is augmented on different image target.
-#### 3.There are UI Virtual Buttons using which you can navigate through various scenes and able to rotate the model, Zoom In, Zoom Out and Change the hair Colour of the 3d model.
+#### 3.From main scene you can choose the models you want to see.
+#### 3.There are UI Virtual Buttons using which you can navigate through various scenes and able to rotate the model, Zoom In, Zoom Out and Change the hair Colour of the 3d model also there are touch interations where user can rotate, translate and scale the 3d model by touch interactions.
 
 ![WhatsApp Image 2022-06-03 at 10 24 03 PM](https://user-images.githubusercontent.com/90376200/171915217-d0ffee59-90b1-480b-bf6c-211ffdce7892.jpeg)
 
