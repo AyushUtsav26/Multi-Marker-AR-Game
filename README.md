@@ -2,7 +2,7 @@
 Multiple Image Target Based Augmented Reality Application/Game
 
 #### APP apk file download link
-https://drive.google.com/uc?export=download&id=1mG4AtBCC94xgBXFO3iLwErEOFBBbmH7u
+https://drive.google.com/file/d/1l9z-OrwB9TGpu-KNgsBq945PwIBGnhgH/view?usp=sharing
 
 
 ## Software Requirements:
