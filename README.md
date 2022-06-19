@@ -22,6 +22,8 @@ https://drive.google.com/uc?export=download&id=1mG4AtBCC94xgBXFO3iLwErEOFBBbmH7u
 
 ![WhatsApp Image 2022-06-19 at 7 23 48 PM (1)](https://user-images.githubusercontent.com/90376200/174485022-e9fa1761-0e3d-4973-80d9-07c22fcbee5f.jpeg)
 
+![Screenshot (12)](https://user-images.githubusercontent.com/90376200/174485296-766288ae-a97b-499a-b339-e073353693ee.png)
+
 ### Image Target:
 It is the image on which the 3d model augmentation happens. In order to see the 3d model scan the image target or point you smartphone cammera on image target.
 
