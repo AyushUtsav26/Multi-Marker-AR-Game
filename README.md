@@ -26,6 +26,8 @@ https://drive.google.com/uc?export=download&id=1mG4AtBCC94xgBXFO3iLwErEOFBBbmH7u
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/90376200/174485655-3e91c596-767c-4265-abcc-fc9580d330a1.png)
 
+![Screenshot (14)](https://user-images.githubusercontent.com/90376200/174485756-dfff2d6b-f2cb-4a22-a72b-c7c98d11332c.png)
+
 ### Image Target:
 It is the image on which the 3d model augmentation happens. In order to see the 3d model scan the image target or point you smartphone cammera on image target.
 
